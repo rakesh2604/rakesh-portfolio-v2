@@ -67,7 +67,8 @@ const About = () => {
             </h2>
             <div className="space-y-4">
               <p className="text-base sm:text-lg text-slate-600 dark:text-slate-400 leading-relaxed">
-                Full-Stack Developer with <strong className="text-slate-900 dark:text-white">1.5+ years of experience</strong> building scalable web applications and RESTful APIs. Proven track record in hackathon competitions and optimizing system performance, specializing in MERN stack development with strong foundation in data structures, algorithms, and modern cloud deployment practices.
+                Full-Stack Developer with hands-on experience building scalable web applications and RESTful APIs. Proven track record in hackathon competitions and optimizing system performance, specializing in MERN stack development with a strong foundation in data structures, algorithms, and modern cloud deployment practices.
+
               </p>
               <p className="text-base sm:text-lg text-slate-600 dark:text-slate-400 leading-relaxed">
                 Previously worked as <strong className="text-slate-900 dark:text-white">Full-Stack Developer at Digi Soul Tech Pvt. Ltd.</strong> where I architected and deployed RESTful APIs, integrated with 5+ third-party services, optimized database query performance (30% reduction in processing time), and implemented secure authentication reducing vulnerabilities by 40%.
@@ -110,7 +111,7 @@ const About = () => {
               {/* Gradient Top Bar */}
               <div className="absolute top-0 left-0 right-0 h-2 bg-gradient-to-r from-cyan-500 via-blue-500 to-cyan-500"></div>
               <div className="absolute top-0 right-0 w-32 h-32 bg-cyan-500/10 dark:bg-cyan-500/10 rounded-full blur-2xl -translate-y-1/2 translate-x-1/2 group-hover:bg-cyan-500/20 dark:group-hover:bg-cyan-500/20 transition-colors duration-500"></div>
-              <h3 className="text-xl sm:text-2xl font-bold text-slate-900 dark:text-white mb-4 relative z-10 mt-1">Professional Experience</h3>
+              <h3 className="text-xl sm:text-2xl font-bold text-slate-900 dark:text-white mb-4 relative z-10 mt-1">Professional Experience (Unpaid)</h3>
               <p className="text-slate-700 dark:text-slate-400 relative z-10 text-base sm:text-lg mb-4 font-medium">
                 <strong className="text-slate-900 dark:text-white">Full-Stack Developer</strong> at Digi Soul Tech Pvt. Ltd. (Jul 2023 – Dec 2024)
               </p>
